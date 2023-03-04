@@ -30,3 +30,6 @@ steps:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'warBuild'
     publishLocation: 'Container'
+
+    
+    
